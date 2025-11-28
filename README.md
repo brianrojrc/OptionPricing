@@ -1,2 +1,2 @@
 # OptionPricing
-Option Pricing with volatility smile
+Option Pricing, volatility smile
